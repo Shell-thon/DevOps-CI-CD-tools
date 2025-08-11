@@ -1,6 +1,6 @@
 # 🔧 10 Free Python Scripts That Will Save You Hours in DevOps
 
-A collection of simple yet powerful Python scripts tailored for DevOps workflows. These scripts help automate common tasks, save time, and reduce manual effort — no APIs, no paid libraries, no fluff.
+A collection of simple yet powerful Python scripts tailored for DevOps workflows. These scripts help automate common tasks, save time, and reduce manual effort no APIs, no paid libraries, no fluff.
 
 ---
 
@@ -21,7 +21,7 @@ All scripts are free and beginner-friendly, with minimal dependencies.
 Each script is explained in detail (with code and use cases) in the Medium article below:
 
 📖 **Read here →**  
-👉 [10 Free Python Scripts That Will Save You Hours in Your DevOps Workflow](https://medium.com/@shell-terminal/10-free-python-scripts-that-will-save-you-hours-in-your-devops-workflow-link-tbd)
+👉 [10 Free Python Scripts That Will Save You Hours in Your DevOps Workflow](https://shell-terminal.medium.com/%EF%B8%8F-10-free-python-scripts-that-will-save-you-hours-in-your-devops-workflow-cb23b073cda3)
 
 ---
 
